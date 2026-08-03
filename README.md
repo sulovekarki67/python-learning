@@ -30,9 +30,9 @@ The goal is not just to write code, but to understand **how and why it works**.
 I will keep updating this list as I learn.
 
 - [x] Variables & Data Types
-- [ ] Input & Output
-- [ ] Operators
-- [ ] Strings
+- [x] Input & Output
+- [x] Operators
+- [x] Strings
 - [ ] Lists
 - [ ] Tuples
 - [ ] Dictionaries
