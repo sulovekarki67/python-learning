@@ -33,8 +33,8 @@ I will keep updating this list as I learn.
 - [x] Input & Output
 - [x] Operators
 - [x] Strings
-- [ ] Lists
-- [ ] Tuples
+- [x] Lists
+- [x] Tuples
 - [ ] Dictionaries
 - [ ] Sets
 - [ ] Loops (`for`, `while`)
