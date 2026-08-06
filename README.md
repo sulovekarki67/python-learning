@@ -35,8 +35,8 @@ I will keep updating this list as I learn.
 - [x] Strings
 - [x] Lists
 - [x] Tuples
-- [ ] Dictionaries
-- [ ] Sets
+- [x] Dictionaries
+- [x] Sets
 - [ ] Loops (`for`, `while`)
 - [ ] Functions
 - [ ] File Handling
