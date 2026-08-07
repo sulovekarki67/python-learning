@@ -37,6 +37,7 @@ I will keep updating this list as I learn.
 - [x] Tuples
 - [x] Dictionaries
 - [x] Sets
+- [x] Conditional Statement 
 - [ ] Loops (`for`, `while`)
 - [ ] Functions
 - [ ] File Handling
