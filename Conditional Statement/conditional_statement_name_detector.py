@@ -5,3 +5,4 @@ if(name.lower() in n):
   print("length of your name is:",len(n))
 else:{
   print("Name is not in the list")
+}
