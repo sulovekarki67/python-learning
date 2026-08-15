@@ -9,7 +9,7 @@ for a in range(0,value):
         smallest = number[a]
 largest = number[0]
 for b in range(0,value):
-    if(number[b]<largest):
+    if(number[b]>largest):
         largest = number[b]
 sum = 0
 for c in range(0,value):

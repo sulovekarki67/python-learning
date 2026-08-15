@@ -38,7 +38,7 @@ I will keep updating this list as I learn.
 - [x] Dictionaries
 - [x] Sets
 - [x] Conditional Statement 
-- [ ] Loops (`for`, `while`)
+- [x] Loops (`for`, `while`)
 - [ ] Functions
 - [ ] File Handling
 - [ ] Object-Oriented Programming
