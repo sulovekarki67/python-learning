@@ -7,4 +7,4 @@ def vowel_count(a):
     return(count)
 text = input("ENter a Word: ")
 result = vowel_count(text)
-print(result)       
+print(result)
